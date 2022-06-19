@@ -1,0 +1,11 @@
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.AssemblyReference.cache
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form1.resources
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.GenerateResource.cache
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.CoreCompileInputs.cache
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\arc.exe.config
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\arc.exe
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\arc.pdb
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\arc.Properties.Resources.resources
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\arc.exe
+C:\Users\N0rdye\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\arc.pdb
